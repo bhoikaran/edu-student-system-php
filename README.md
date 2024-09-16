@@ -1,4 +1,3 @@
-edu-student-system-php
 edu-student-system-php is a comprehensive PHP-based Student Management System designed for educational institutions to efficiently manage student information and administrative tasks.
 
 Features
@@ -21,7 +20,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/edu-student-system-php.git
+git clone https://github.com/bhoikaran/edu-student-system-php.git
 Set up your local server (e.g., XAMPP, WAMP).
 Import the database from the /database folder.
 Configure database connection in studentms/admin/includes/dbconnection.php
